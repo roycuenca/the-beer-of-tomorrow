@@ -1,4 +1,3 @@
-// apiFunctions.ts
 import { Beer } from '../../types';
 import axiosInstance from './apiConfig';
 

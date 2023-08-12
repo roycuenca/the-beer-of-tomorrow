@@ -23,6 +23,7 @@ const ProductCard: React.FC<ProductCardProps> = ({
 }) => {
   return (
     <TouchableOpacity
+      testID="product-card"
       style={styles.cardContainer}
       onPress={() => handleOnPress()}
     >
