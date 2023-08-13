@@ -3,13 +3,13 @@
 This is a React Native Expo application that utilizes the Punk API to display information about beers. The app allows users to search for beers based on food pairing and beer name. Additionally, users can view detailed information about each beer.
 
 ## Table of Contents
-- [Screenshots](#screenshots)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Integration](#api-integration)
+- Screenshots
+- Features
+- Installation
+- Usage
+- API Integration
 
-##ScreenShoots
+## ScreenShoots
 
 ![theBeerOfTomorrow](https://github.com/roycuenca/the-beer-of-tomorrow/assets/38863724/9fe48568-8e7b-43d0-a755-1610cf0f0b0b)
 
@@ -51,6 +51,13 @@ This is a React Native Expo application that utilizes the Punk API to display in
     npm run ios
     # or
     yarn ios
+   ```
+
+6. Generate Tests:
+   app utilizes Jest for testing purposes. To run tests, use the command npm run test. Jest ensures our code's quality by providing       efficient testing capabilities, helping us identify and resolve issues quickly.
+
+   ```sh
+    npm run test
    ```
 
 
